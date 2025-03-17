@@ -15,10 +15,10 @@ This project aims to analyze D-Mart sales data to uncover key business insights.
 9. Which state contributes the most and least to total sales?
 10. How do sales vary across different sub-categories using the slicer?
 ## Steps
- Data collection : Gathered data from a reliable website to ensure comprehensive coverage of sales information.
- Data Loading and cleaning : Imported the collected data into MS Excel.
- Cleaned the data by : Removing unnecessary columns and duplicates.
+1. Data collection : Gathered data from a reliable website to ensure comprehensive coverage of sales information.
+2. Data Loading and cleaning : Imported the collected data into MS Excel.
+3. Cleaned the data by : Removing unnecessary columns and duplicates.
                          Handling missing values.
- Data Analysis : Utilized pivot tables to perform detailed analysis.                        
+4. Data Analysis : Utilized pivot tables to perform detailed analysis.                        
 
 
