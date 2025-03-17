@@ -21,4 +21,4 @@ This project aims to analyze D-Mart sales data to uncover key business insights.
                          Handling missing values.
 4. Data Analysis : Utilized pivot tables to perform detailed analysis.                        
 ## Dashboard
-
+- <a href= "https://github.com/rashiSh8303/Data-analysis-Dashboard/blob/main/Dashboard.png"> link </a>
