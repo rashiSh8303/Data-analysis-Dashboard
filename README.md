@@ -2,5 +2,5 @@
 ## Project objective
 This project aims to analyze D-Mart sales data to uncover key business insights. It helps identify top-performing products, customer purchasing behavior, and profitability trends using data visualization, KPIs, and Excel dashboards.
 # Dataset Used
-https://github.com/rashiSh8303/Data-analysis-Dashboard.git
+
 
