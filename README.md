@@ -20,5 +20,5 @@ This project aims to analyze D-Mart sales data to uncover key business insights.
 3. Cleaned the data by : Removing unnecessary columns and duplicates.
                          Handling missing values.
 4. Data Analysis : Utilized pivot tables to perform detailed analysis.                        
-
+## Dashboard
 
