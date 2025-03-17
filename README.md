@@ -1,2 +1,4 @@
-# Data-analysis-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning and visualization.
+# Dmart sales analysis (interactive Dashboard creation using Microsoft Excel)
+## Project objective
+This project aims to analyze D-Mart sales data to uncover key business insights. It helps identify top-performing products, customer purchasing behavior, and profitability trends using data visualization, KPIs, and Excel dashboards.
+
